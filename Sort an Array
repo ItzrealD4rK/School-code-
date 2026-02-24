@@ -1,0 +1,3 @@
+numbers = [45, 12, 67, 23, 89]
+numbers.sort()
+print("Sorted array:", numbers)
